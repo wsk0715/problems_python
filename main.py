@@ -1,4 +1,4 @@
-from tct import greedy_3 as solve
+from tct.implementation import implementation_1 as solve
 
 if __name__ == '__main__':
     solve
